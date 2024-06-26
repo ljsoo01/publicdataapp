@@ -47,7 +47,7 @@ function App() {
     } finally {
       setIsLoaded(true)
     }
-  };
+  }
 
   useEffect(() => {
     document.title = '이륜차 사고 다발 구역 조회';
